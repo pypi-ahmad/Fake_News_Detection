@@ -24,7 +24,7 @@ Fake_News_Detection/
   - `label`: The label indicating the authenticity of the article (`1` for fake and `0` for real).
 
 
-## 🚀 Getting Started
+🚀 Getting Started
 
 Prerequisites
 
@@ -56,7 +56,7 @@ Steps to Run
 
 ---
 
-## 🛠️ Tools and Technologies
+🛠️ Tools and Technologies
 
 - **Programming Language**: Python
 - **Libraries Used**:
@@ -66,7 +66,7 @@ Steps to Run
 
 ---
 
-## 📜 License
+📜 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
