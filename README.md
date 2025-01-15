@@ -1,11 +1,10 @@
 ```markdown
-# 📰 Fake News Detection
+📰 Fake News Detection
 
 This repository contains a machine learning project aimed at detecting fake news articles. The model uses a dataset of news articles to classify them as either real or fake.
 
----
 
-## 📁 Repository Structure
+📁 Repository Structure
 
 ```
 Fake_News_Detection/
@@ -15,9 +14,7 @@ Fake_News_Detection/
 ├── LICENSE                          # License file
 ```
 
----
-
-## 📊 Dataset
+📊 Dataset
 
 - **File**: `news/news.csv`
 - **Description**: This dataset contains news articles with labels indicating whether they are fake or real.
@@ -26,11 +23,10 @@ Fake_News_Detection/
   - `text`: The body/content of the news article.
   - `label`: The label indicating the authenticity of the article (`1` for fake and `0` for real).
 
----
 
-## 🚀 Getting Started
+🚀 Getting Started
 
-### Prerequisites
+Prerequisites
 
 - Python 3.7+
 - Jupyter Notebook
@@ -38,8 +34,9 @@ Fake_News_Detection/
   - Pandas
   - NumPy
   - Scikit-learn
+   ```
 
-### Steps to Run
+Steps to Run
 
 1. Clone the repository:
    ```bash
@@ -59,7 +56,7 @@ Fake_News_Detection/
 
 ---
 
-## 🛠️ Tools and Technologies
+🛠️ Tools and Technologies
 
 - **Programming Language**: Python
 - **Libraries Used**:
@@ -69,7 +66,7 @@ Fake_News_Detection/
 
 ---
 
-## 📜 License
+📜 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
