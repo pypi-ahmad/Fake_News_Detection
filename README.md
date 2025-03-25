@@ -16,9 +16,9 @@ Fake_News_Detection/
 
 📊 Dataset
 
-- **File**: `news/news.csv`
-- **Description**: This dataset contains news articles with labels indicating whether they are fake or real.
-- **Columns**:
+- File: `news/news.csv`
+- Description: This dataset contains news articles with labels indicating whether they are fake or real.
+- Columns:
   - `title`: The title of the news article.
   - `text`: The body/content of the news article.
   - `label`: The label indicating the authenticity of the article (`1` for fake and `0` for real).
