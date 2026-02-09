@@ -16,7 +16,7 @@ This project builds a TF-IDF + Passive Aggressive classifier to detect fake news
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Fake_News_Detection.git
+   git clone https://github.com/pypi-ahmad/Fake_News_Detection.git
    cd Fake_News_Detection
    ```
 
