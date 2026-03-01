@@ -1,5 +1,6 @@
 # Virtual environments
 venv/
+.venv/
 env/
 Lib/
 
@@ -15,6 +16,10 @@ __pycache__/
 # Installed packages
 *.dist-info/
 site-packages/
+
+# Generated artifacts
+model_artifacts.pkl
+*.log
 
 # System files
 .DS_Store
