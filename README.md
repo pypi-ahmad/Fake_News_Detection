@@ -378,3 +378,5 @@ Fake_News_Detection/
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+<p align="center">Made with ❤️ by Ahmad Mujtaba</p>
